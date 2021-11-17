@@ -1,0 +1,997 @@
+1:mar
+2:mÃ©
+3:a
+4:go
+5:sÃ©
+6:bhÃ­
+7:do
+8:ar
+9:TÃ¡
+10:le
+11:siad
+12:bheith
+13:ag
+14:amhÃ¡in
+15:tÃ¡
+16:seo
+17:Ã³
+18:ag
+19:te
+20:focal
+21:ach
+22:cad
+23:roinnt
+24:tÃ¡
+25:sÃ©
+26:tÃº
+27:nÃ³
+28:bhÃ­
+29:an
+30:ar
+31:go
+32:agus
+33:a
+34:i
+35:againn
+36:Is fÃ©idir
+37:amach
+38:eile
+39:bhÃ­
+40:a
+41:dhÃ©anamh
+42:n-
+43:am
+44:mÃ¡s rud Ã©
+45:beidh
+46:conas
+47:dÃºirt
+48:ar
+49:gach
+50:insint
+51:dhÃ©anann
+52:leagtha
+53:trÃ­
+54:Ba mhaith
+55:aer
+56:go maith
+57:freisin
+58:imirt
+59:beag
+60:deireadh
+61:chur
+62:baile
+63:lÃ©amh
+64:lÃ¡mh
+65:calafoirt
+66:mÃ³r
+67:litriÃº
+68:cuir
+69:fiÃº
+70:talamh
+71:anseo
+72:NÃ­ mÃ³r
+73:mÃ³r
+74:ard
+75:den sÃ³rt sin a
+76:leanÃºint
+77:gnÃ­omh
+78:cÃ©n fÃ¡th
+79:a iarraidh
+80:fir
+81:athraithe
+82:chuaigh
+83:solas
+84:chineÃ¡l
+85:amach
+86:NÃ­ mÃ³r
+87:teach
+88:pictiÃºr
+89:iarracht
+90:dÃºinn
+91:arÃ­s
+92:ainmhithe
+93:pointe
+94:mÃ¡thair
+95:domhan
+96:in aice le
+97:a thÃ³gÃ¡il
+98:fÃ©in
+99:crÃ©
+100:athair
+101:aon
+102:nua
+103:obair
+104:chuid
+105:ghlacadh
+106:a fhÃ¡il
+107:Ã¡it
+108:dÃ©anta
+109:beo
+110:i gcÃ¡s ina
+111:tar Ã©is
+112:ar ais
+113:beag
+114:ach
+115:bhabhta
+116:fear
+117:bliain
+118:thÃ¡inig
+119:thaispeÃ¡int
+120:gach
+121:maith
+122:dom
+123:thabhairt
+124:Ã¡r n-
+125:faoi
+126:ainm
+127:an-
+128:trÃ­
+129:ach
+130:fhoirm
+131:abairt
+132:mÃ³r
+133:I mo thuairimse,
+134:rÃ¡
+135:cabhrÃº
+136:Ã­seal
+137:lÃ­ne
+138:difriÃºil
+139:cas
+140:faoi deara
+141:i bhfad
+142:ciallÃ³idh
+143:roimh
+144:bogadh
+145:ceart
+146:buachaill
+147:dâ€™aois
+148:freisin
+149:cÃ©anna
+150:sÃ­
+151:go lÃ©ir
+152:ann
+153:nuair
+154:suas
+155:ÃºsÃ¡id
+156:do
+157:bhealach
+158:faoi
+159:go leor
+160:ansin
+161:iad
+162:scrÃ­obh
+163:bheadh
+164:cosÃºil le
+165:mar sin
+166:na
+167:di
+168:fada
+169:dhÃ©anamh
+170:rud
+171:fÃ©ach
+172:air
+173:dhÃ¡
+174:TÃ¡
+175:breathnÃº
+176:nÃ­os mÃ³
+177:lÃ¡
+178:Dâ€™fhÃ©adfadh
+179:dul
+180:teacht
+181:rinne
+182:lÃ­on
+183:fuaim
+184:aon
+185:an chuid is mÃ³
+186:daoine
+187:mo
+188:nÃ­os mÃ³ nÃ¡
+189:TÃ¡ a fhios
+190:uisce
+191:nÃ¡
+192:glao
+193:ar dtÃºs
+194:a
+195:fÃ©adfaidh
+196:sÃ­os
+197:taobh
+198:curtha
+199:anois
+200:aimsiÃº
+201:ceann
+202:seasamh
+203:fÃ©in
+204:leathanach
+205:Ba chÃ³ir
+206:tÃ­r
+207:fuair
+208:freagra
+209:scoil
+210:fÃ¡s
+211:staidÃ©ar
+212:fÃ³s
+213:foghlaim
+214:plandaÃ­
+215:chlÃºdach
+216:bia
+217:ghrian
+218:ceithre
+219:idir
+220:stÃ¡it
+221:choinneÃ¡il
+222:sÃºl
+223:riamh
+224:seo caite
+225:a ligean
+226:shÃ­l
+227:cathair
+228:crann
+229:tras
+230:feirme
+231:crua
+232:tÃºs
+233:dâ€™fhÃ©adfadh
+234:scÃ©al
+235:chonaic
+236:i bhfad
+237:farraige
+238:a tharraingt
+239:chlÃ©
+240:dÃ©anach
+241:rith
+242:nach
+243:cÃ© go
+244:preas
+245:gar
+246:oÃ­che
+247:fÃ­or
+248:saol
+249:beag
+250:Ã³ thuaidh
+251:leabhar
+252:iompar
+253:ghlac
+254:eolaÃ­ocht
+255:ithe
+256:seomra
+257:cara
+258:thosaigh
+259:smaoineamh
+260:iasc
+261:sliabh
+262:stad
+263:uair amhÃ¡in
+264:bonn
+265:chloisteÃ¡il
+266:capall
+267:gearrtha
+268:cinnte
+269:fÃ©achaint ar
+270:dath
+271:aghaidh
+272:adhmad
+273:prÃ­omh-
+274:oscailte
+275:Is cosÃºil go
+276:le chÃ©ile
+277:seo chugainn
+278:bÃ¡n
+279:leanaÃ­
+280:tÃºs a chur
+281:fuair
+282:siÃºl
+283:Mar shampla
+284:radharc
+285:pÃ¡ipÃ©ar
+286:grÃºpa
+287:i gcÃ³naÃ­
+288:ceol
+289:sin
+290:dÃ¡
+291:marc
+292:Is minic
+293:litir
+294:go dtÃ­
+295:mÃ­le
+296:abhainn
+297:carr
+298:cosa
+299:cÃºram
+300:an dara
+301:leor
+302:plain
+303:cailÃ­n
+304:gnÃ¡ch
+305:Ã³g
+306:rÃ©idh
+307:thuas
+308:riamh
+309:dearg
+310:liosta
+311:cÃ© go
+312:bhraitheann
+313:PlÃ©
+314:Ã©an
+315:go luath
+316:comhlacht
+317:madra
+318:teaghlach
+319:dÃ­reach
+320:Ãºdar
+321:saoire
+322:song
+323:a thomhas
+324:doras
+325:tÃ¡irge
+326:dubh
+327:gearr
+328:UimhreÃ¡n
+329:rang
+330:gaoithe
+331:ceist
+332:tharlÃ³idh
+333:crÃ­ochnaithe
+334:long
+335:limistÃ©ar
+336:leath
+337:carraig
+338:ordÃº
+339:dÃ³iteÃ¡in
+340:Ã³ dheas
+341:fhadhb
+342:pÃ­osa
+343:inis
+344:BhÃ­ a fhios
+345:pas a fhÃ¡il
+346:Ã³s rud Ã©
+347:barr
+348:fad
+349:rÃ­
+350:ainm
+351:orlach
+352:iolrÃº
+353:aon rud
+354:cÃºrsa
+355:fanacht
+356:roth
+357:lÃ¡n
+358:bhfeidhm
+359:gorm
+360:rÃ©ad
+361:cinneadh a dhÃ©anamh
+362:dromchla
+363:domhain
+364:gealach
+365:oileÃ¡n
+366:cos
+367:cÃ³ras
+368:gnÃ³thach
+369:tÃ¡stÃ¡il
+370:taifead
+371:bÃ¡d
+372:coitianta
+373:Ã³ir
+374:fÃ©idir
+375:eitleÃ¡n
+376:ionad
+377:tirim
+378:Wonder
+379:gÃ¡ire
+380:mÃ­le
+381:Ã³ shin
+382:Rith
+383:seiceÃ¡il
+384:cluiche
+385:cruth
+386:ionann
+387:te
+388:chailleann
+389:thug
+390:teas
+391:sneachta
+392:bonn
+393:thabhairt
+394:yes
+395:i bhfad i gcÃ©in
+396:lÃ­onadh
+397:soir
+398:pÃ©int
+399:teanga
+400:i measc
+401:aonad
+402:cumhacht
+403:baile
+404:fÃ­neÃ¡il
+405:Ã¡irithe
+406:eitilt
+407:titim
+408:luaidhe
+409:caoin
+410:dorcha
+411:meaisÃ­n
+412:nÃ³ta
+413:fan
+414:plean
+415:figiÃºr
+416:rÃ©alta
+417:bosca
+418:ainmfhocail
+419:rÃ©imse
+420:chuid eile
+421:ceart
+422:ann
+423:punt
+424:rinneadh
+425:Ã¡illeacht
+426:tiomÃ¡int
+427:sheas
+428:go bhfuil
+429:tosaigh
+430:mhÃºineadh
+431:seachtain
+432:deiridh
+433:thug
+434:glas
+435:curfÃ¡
+436:tapaidh
+437:fhorbairt
+438:farraige
+439:te
+440:saor in aisce
+441:nÃ³imÃ©ad
+442:lÃ¡idir
+443:speisialta
+444:aigne
+445:taobh thiar
+446:soilÃ©ir
+447:eireaball
+448:ar aird
+449:Go deimhin
+450:spÃ¡s
+451:Ã©isteacht
+452:fearr
+453:uair an chloig
+454:nÃ­os fearr
+455:fÃ­or
+456:le linn
+457:cÃ©ad
+458:cÃºig
+459:cuimhnigh
+460:cÃ©im
+461:go luath
+462:shealbhÃº
+463:siar
+464:talamh
+465:Ãºs
+466:a bhaint amach
+467:tapa
+468:briathar
+469:chanadh
+470:Ã©isteacht
+471:sÃ©
+472:tÃ¡bla
+473:taisteal
+474:nÃ­os lÃº
+475:maidin
+476:deich
+477:simplÃ­
+478:roinnt
+479:guta
+480:i dtreo
+481:cogadh
+482:leagan
+483:i gcoinne
+484:patrÃºn
+485:mall
+486:ionad
+487:grÃ¡
+488:duine
+489:airgead
+490:freastal
+491:le feiceÃ¡il
+492:bÃ³thar
+493:lÃ©arscÃ¡il
+494:bÃ¡isteach
+495:riail
+496:rialaÃ­onn
+497:tarraingt
+498:fuar
+499:FÃ³gra
+500:guth
+501:fuinnimh
+502:fiach
+503:is dÃ³cha
+504:leaba
+505:dearthÃ¡ir
+506:ubh
+507:marcaÃ­ochta
+508:cill
+509:Creidim
+510:bâ€™fhÃ©idir
+511:Pioc
+512:tobann
+513:comhaireamh
+514:cearnach
+515:chÃºis
+516:fad
+517:ionadaÃ­ocht a dhÃ©anamh
+518:ealaÃ­n
+519:Ã¡bhar
+520:rÃ©igiÃºn
+521:mÃ©id
+522:athrÃº
+523:rÃ©iteach
+524:labhairt
+525:meÃ¡chan
+526:ginearÃ¡lta
+527:oighear
+528:Ã¡bhar
+529:ciorcal
+530:pÃ©ire
+531:I measc na
+532:deighilt
+533:siolla
+534:bhraith
+535:mhÃ³r
+536:liathrÃ³id
+537:fÃ³s
+538:tonn
+539:titim
+540:croÃ­
+541:rn
+542:i lÃ¡thair
+543:trom
+544:rince
+545:inneall
+546:seasamh
+547:lÃ¡mh
+548:ar fud an
+549:seol
+550:Ã¡bhar
+551:chodÃ¡n
+552:foraoise
+553:suÃ­
+554:cine
+555:fuinneog
+556:siopa
+557:samhradh
+558:traein
+559:codlata
+560:chruthÃº
+561:aonaracha
+562:cos
+563:a fheidhmiÃº
+564:balla
+565:ghabhÃ¡il
+566:mount
+567:Is mian
+568:spÃ©ir
+569:bord
+570:Ã¡thas
+571:gheimhridh
+572:shuigh
+573:scrÃ­ofa
+574:fiÃ¡in
+575:ionstraim
+576:choimeÃ¡d
+577:gloine
+578:fÃ©ar
+579:bÃ³
+580:post
+581:imeall
+582:comhartha
+583:cuairt a thabhairt ar
+584:am atÃ¡ thart
+585:bog
+586:spraoi
+587:geal
+588:gÃ¡is
+589:aimsir
+590:mÃ­
+591:milliÃºn
+592:iomprÃ³idh
+593:chrÃ­ochnÃº
+594:sÃ¡sta
+595:TÃ¡ sÃºil
+596:blÃ¡th
+597:clothe
+598:aisteach
+599:imithe
+600:trÃ¡dÃ¡il
+601:sÃ©is
+602:turas
+603:oifig
+604:fhÃ¡il
+605:as a chÃ©ile
+606:bÃ©al
+607:cruinn
+608:siombail
+609:bÃ¡s
+610:ar a laghad
+611:dtrioblÃ³id
+612:shout
+613:ach amhÃ¡in
+614:ScrÃ­obh
+615:sÃ­ol
+616:ton
+617:pÃ¡irt a
+618:fios
+619:glan
+620:sos
+621:bhean
+622:clÃ³s
+623:ardÃº
+624:dona
+625:buille
+626:ola
+627:fuil
+628:teagmhÃ¡il
+629:Dâ€™fhÃ¡s
+630:cent
+631:meascÃ¡n
+632:fhoireann
+633:sreang
+634:costas
+635:caillte
+636:donn
+637:chaitheamh
+638:gairdÃ­n
+639:comhionann
+640:sheoladh
+641:roghnaigh
+642:thit
+643:oiriÃºnach
+644:sreabhadh
+645:cÃ³ir
+646:banc
+647:bhailiÃº
+648:shÃ¡bhÃ¡il
+649:rialÃº
+650:dheachÃºlach
+651:cluas
+652:eile
+653:go leor
+654:bhris
+655:cÃ¡s
+656:lÃ¡r
+657:mharÃº
+658:mac
+659:loch
+660:nÃ³imÃ©ad
+661:scÃ¡la
+662:glÃ³rach
+663:earrach
+664:breathnÃº ar
+665:leanbh
+666:dÃ­reach
+667:consan
+668:nÃ¡isiÃºn
+669:foclÃ³ir
+670:bainne
+671:luas
+672:modh
+673:orgÃ¡n
+674:Ã­oc
+675:aois
+676:alt
+677:gÃºna
+678:scamall
+679:iontas
+680:ciÃºin
+681:cloch
+682:beag bÃ­deach
+683:tÃ³g
+684:fionnuar
+685:dearadh
+686:droch-
+687:leor
+688:turgnamh
+689:bun
+690:eochair
+691:iarann
+692:singil
+693:bata
+694:Ã¡rasÃ¡n
+695:fiche
+696:craiceann
+697:aoibh ghÃ¡ire
+698:crease
+699:poll
+700:lÃ©im
+701:leanbh
+702:ocht
+703:srÃ¡idbhaile
+704:le chÃ©ile
+705:frÃ©imhe
+706:cheannach
+707:ardÃº
+708:rÃ©iteach
+709:miotail
+710:cÃ© acu
+711:bhrÃº
+712:seacht
+713:mÃ­r
+714:trÃ­Ãº
+715:dÃ©anfaidh
+716:seilbh
+717:gruaig
+718:cur sÃ­os a dhÃ©anamh
+719:cÃ³caireacht
+720:urlÃ¡r
+721:ceachtar
+722:toradh
+723:sruthÃ¡n
+724:cnoc
+725:sÃ¡bhÃ¡ilte
+726:cat
+727:haois
+728:a mheas
+729:cineÃ¡l
+730:dlÃ­
+731:giotÃ¡n
+732:chÃ³sta
+733:cÃ³ip
+734:frÃ¡sa
+735:adh
+736:ard
+737:gaineamh
+738:ithir
+739:rolla
+740:teocht
+741:mhÃ©ar
+742:tionscal
+743:luach
+744:troid i
+745:brÃ©ag
+746:buille
+747:spreagfaidh
+748:nÃ¡dÃºrtha
+749:dearcadh
+750:ciall
+751:caipitil
+752:NÃ­ bheidh
+753:cathaoir
+754:contÃºirt
+755:torthaÃ­
+756:saibhir
+757:tiubh
+758:saighdiÃºir
+759:prÃ³iseas
+760:oibriÃº
+761:cleachtas
+762:ar leithligh
+763:deacair
+764:dochtÃºir
+765:le do thoil
+766:chosaint
+767:meÃ¡n lae
+768:barr
+769:nua-aimseartha
+770:eilimint
+771:hit
+772:mac lÃ©inn
+773:cÃºinne
+774:pÃ¡irtÃ­
+775:solÃ¡thar
+776:a bhfuil a
+777:aimsiÃº
+778:fÃ¡inne
+779:charachtar
+780:feithidÃ­
+781:ghabh
+782:trÃ©imhse
+783:LÃ©irÃ­onn
+784:raidiÃ³
+785:labhair
+786:adamh
+787:daonna
+788:stair
+789:Ã©ifeacht
+790:leictreacha
+791:ag sÃºil leis
+792:cnÃ¡mh
+793:iarnrÃ³id
+794:shamhlÃº
+795:a chur ar fÃ¡il
+796:aontaÃ­onn
+797:dÃ¡ bhrÃ­ sin
+798:mhÃ­n
+799:bean
+800:captaen
+801:buille faoi thuairim
+802:gÃ¡
+803:gÃ©ar
+804:sciathÃ¡n
+805:chruthÃº
+806:comharsa
+807:nigh
+808:bat
+809:in Ã¡it
+810:slua
+811:arbhar
+812:a chur i gcomparÃ¡id
+813:dÃ¡n
+814:teaghrÃ¡n
+815:clog
+816:ag brath
+817:feoil
+818:rub
+819:feadÃ¡n
+820:cÃ¡iliÃºil
+821:plÃ© a dhÃ©anamh ar
+822:sruth
+823:eagla
+824:tanaÃ­
+825:triantÃ¡in
+826:plÃ¡inÃ©ad
+827:Hurry
+828:prÃ­omhfheidhmeannach
+829:coilÃ­neacht
+830:clog
+831:mianach
+832:comhionannas vÃ³taÃ­
+833:isteach
+834:mÃ³r-
+835:Ãºr
+836:cuardach
+837:sheoladh
+838:buÃ­
+839:ardaigh
+840:ar chumas
+841:clÃ³
+842:marbh
+843:lÃ¡thair
+844:fÃ¡sach
+845:oireann
+846:atÃ¡ ann faoi lÃ¡thair
+847:ardaitheoir
+848:teacht
+849:mÃ¡istir
+850:rian
+851:tuismitheoir
+852:gcÃ³sta
+853:roinn
+854:bileog
+855:substaint
+856:bhfabhar
+857:ceangal
+858:post
+859:chaitheamh
+860:corda
+861:saill
+862:sÃ¡sta
+863:bunaidh
+864:scair
+865:stÃ¡isiÃºn
+866:daidÃ­
+867:arÃ¡n
+868:muirear
+869:ceart
+870:barra
+871:tairiscint
+872:deighleog
+873:daor
+874:lacha
+875:toirt
+876:margadh
+877:cÃ©im
+878:populate
+879:chick
+880:daor
+881:namhaid
+882:freagra
+883:deoch
+884:tharlaÃ­onn
+885:tacaÃ­ocht
+886:urlabhra
+887:nÃ¡dÃºr
+888:raon
+889:gaile
+890:tairiscint
+891:cosÃ¡n
+892:leacht
+893:logÃ¡il isteach
+894:i gceist
+895:chomhrann
+896:fiacla
+897:bhlaosc
+898:muineÃ¡l
+899:ocsaigin
+900:siÃºcra
+901:bÃ¡s
+902:deas
+903:scil
+904:mnÃ¡
+905:sÃ©asÃºr
+906:rÃ©iteach
+907:maighnÃ©ad
+908:airgid
+909:go raibh maith
+910:brainse
+911:cluiche
+912:iarmhÃ­r
+913:go hÃ¡irithe
+914:fige
+915:eagla
+916:ollmhÃ³r
+917:deirfiÃºr
+918:cruach
+919:ar aghaidh
+920:den chineÃ¡l cÃ©anna
+921:treoir
+922:taithÃ­
+923:scÃ³r
+924:Ãºll
+925:cheannaigh
+926:faoi stiÃºir
+927:tuinairde
+928:cÃ³ta
+929:mais
+930:cÃ¡rta
+931:banna
+932:tÃ©ad
+933:duillÃ­n
+934:bhuachan
+935:aisling
+936:trÃ¡thnÃ³na
+937:coinnÃ­oll
+938:beatha
+939:uirlis
+940:iomlÃ¡n
+941:bunÃºsach
+942:boladh
+943:gleann
+944:nÃ¡
+945:dÃºbailte
+946:suÃ­ochÃ¡n
+947:leanÃºint ar aghaidh
+948:bloc
+949:chairt
+950:hata
+951:dhÃ­ol
+952:rath
+953:cuideachta
+954:dealaigh
+955:imeacht
+956:ar leith
+957:dÃ©ileÃ¡il
+958:snÃ¡mh
+959:tÃ©arma
+960:os coinne
+961:bean chÃ©ile
+962:brÃ³g
+963:ghualainn
+964:leathadh
+965:socrÃº a
+966:campa
+967:chumadh
+968:cadÃ¡s
+969:Rugadh
+970:chinneadh
+971:leanna
+972:naoi
+973:trucail
+974:torann
+975:leibhÃ©al
+976:seans
+977:bhailiÃº
+978:siopa
+979:strÃ¡ice
+980:caith
+981:Shine
+982:maoin
+983:colÃºn
+984:mÃ³ilÃ­n
+985:roghnaigh
+986:mÃ­cheart
+987:liath
+988:athuair
+989:a cheangal ar
+990:leathan
+991:ullmhÃº
+992:salann
+993:srÃ³n
+994:iolra
+995:fearg
+996:Ã©ileamh
+997:mÃ³r-roinn
